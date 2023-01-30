@@ -1,4 +1,4 @@
-# hello-world
+# alx-pre_course
 my first repository on Github
 
 I am determined to finished the software program
